@@ -1,5 +1,6 @@
 ### C'est moi wsh 👋
-[img]https://www.angrybirds.com/wp-content/uploads/2022/05/ABCOM_202203_1000x1000_CharacterDimensio_Terence_Movie.png[/img]
+![](https://www.angrybirds.com/wp-content/uploads/2022/05/ABCOM_202203_1000x1000_CharacterDimensio_Terence_Movie.png)
+
 <!--
 **clepix21/clepix21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
