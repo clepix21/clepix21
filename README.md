@@ -1,7 +1,6 @@
 ### C'est moi wsh 👋
 <img src="https://raw.githubusercontent.com/clepix21/clepix21/output/snake.svg" alt="Snake animation" />
 
-###
 <!--
 **clepix21/clepix21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
