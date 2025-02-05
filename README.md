@@ -1,6 +1,6 @@
 ### C'est moi wsh 👋
-<img src="https://raw.githubusercontent.com/clepix21/clepix21/output/snake.svg" alt="Snake animation" />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b1n84uqdjq2oou3fkimdm9tmj)
 <!--
 **clepix21/clepix21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
